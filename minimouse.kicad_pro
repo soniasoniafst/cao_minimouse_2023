@@ -413,10 +413,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "minimouse"
+      "minimouse",
+      "Empreinte TP1 2023 SONIA"
     ],
     "pinned_symbol_libs": [
-      "minimouse"
+      "minimouse",
+      "TP1 Sonia"
     ]
   },
   "meta": {
